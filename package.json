@@ -1,0 +1,13 @@
+{
+  "name": "project-redux",
+  "version": "1.0.0",
+  "description": "Project Redux",
+  "main": "index.js",
+  "repository": "https://github.com/mfarisgibran/project-redux",
+  "author": "M Faris Gibran",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
